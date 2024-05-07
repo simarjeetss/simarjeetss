@@ -13,13 +13,12 @@
   <img src="https://komarev.com/ghpvc/?username=simarjeetss&style=flat-square&color=blue" alt=""/>
 </div>
 
-Hi there, I'm Simarjeet Singh! 👋
-🎓 I'm currently pursuing my master's in computer science at Washington State University.
+👋 Hi there! I'm Simarjeet Singh, a passionate computer science master's student at Washington State University. I'm deeply enthusiastic about software development, constantly exploring new concepts and technologies.
 
-💻 I'm passionate about software development, with a keen interest in distributed systems, cloud computing, web development, and web security.
+💻 My primary interests lie in distributed systems and cloud computing. I'm fascinated by the complexities of designing and managing distributed applications in the cloud environment.
 
-🌐 I love exploring the complexities of building distributed applications in the cloud and delving into the intricacies of web development while ensuring robust security measures.
+🌐 Additionally, I have a keen interest in web development and web security. I enjoy delving into the intricacies of building robust web applications while ensuring they are secure against potential threats.
 
-📚 With a strong foundation in software design principles and architecture, I'm committed to writing clean, scalable code that follows best practices.
+📚 With a solid understanding of software design principles and architecture, I strive to write clean, maintainable code that scales effectively.
 
-🌱 I'm always eager to learn and grow in the dynamic world of technology. Let's connect and embark on this journey together!
+🌱 I'm always eager to learn and grow in the ever-evolving field of technology. Feel free to connect with me and join me on this exciting journey of exploration and innovation!
