@@ -4,10 +4,10 @@
 <div id="badges">
   <a target="blank" href="https://linkedin.com/in/simarjeetss529" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<!--   </a>
   <a target="blank" href="https://twitter.com/s1mjjj" >
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 <div id = "badges">
   <img src="https://komarev.com/ghpvc/?username=simarjeetss&style=flat-square&color=blue" alt=""/>
